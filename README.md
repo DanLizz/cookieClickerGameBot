@@ -1,4 +1,3 @@
-# cookieClickerGameBot
-Cookie Clicker Game Bot developed as part of Dr.Angela Yu,s 100 Days of Python Bootcamp.
-
+# Cookie Clicker Game Bot
+Cookie Clicker Game Bot developed with Python and Selenium.
 
